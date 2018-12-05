@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Solutions to problems on adventofcode.com",
+  "main": "index.js",
+  "author": "Christopher Ronning",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.12"
+  }
+}
